@@ -4,7 +4,9 @@ This is done by comparing data returned from a query to data returned from anoth
 
 ### Tools
 Python
+
 Pytest
+
 Database
 
 ### Status
